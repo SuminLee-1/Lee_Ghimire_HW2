@@ -23,10 +23,18 @@ If you'd like to contribute to this project, please follow these steps:
 
 This project is licensed under the [Your License] License - see the LICENSE file for details.
 
+## Credits
+
+Suyog Ghimire
+Sumin Lee
+
 ## Contact
 
 Email: sumin.lee707@gmail.com
 LinkedIn: https://www.linkedin.com/in/sumin-lee-82a905268/
+
+Email: ghimiresuyog10@gmail.com
+Portfolio: www.suyog.ca
 
 ## License
 
